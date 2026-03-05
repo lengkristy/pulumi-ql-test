@@ -1,0 +1,7 @@
+name: powershell-mcp
+version: 0.0.1
+schema: v1
+mcpServers:
+  - name: powershell-tool
+    type: stdio
+    command: C:\work\vs_work\CPP-MCP-TEST\CPP-MCP-TEST-release.exe
